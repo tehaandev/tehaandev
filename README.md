@@ -15,5 +15,5 @@
 
 
 ## Contact Me
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=Flat&logo=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftehaan-perera%2F)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=Flat&logo=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftehaan-perera%2F)](https://www.linkedin.com/in/tehaan-perera/)
 
