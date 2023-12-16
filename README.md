@@ -1,7 +1,8 @@
-# Hi there! 👋 
+# Hi there!👋 
 - I'm Tehaan from Sri Lanka. I'm currently a first-year undergraduate majoring in Computer Science.
 
-## Technical Skills 🧑‍💻
+## Technical Skills🧑‍💻
+
 ![Static Badge](https://img.shields.io/badge/Node.js-green?style=Flat&logo=Node.js)
 ![Static Badge](https://img.shields.io/badge/Angular-red?style=Flat&logo=Angular)
 ![Static Badge](https://img.shields.io/badge/Ionic-white?style=Flat&logo=Ionic&labelColor=white&color=blue)
@@ -9,8 +10,10 @@
 ![Static Badge](https://img.shields.io/badge/Alpine.js-blue?style=Flat&logo=alpine.js)
 ![Static Badge](https://img.shields.io/badge/PHP-white?style=Flat&logo=PHP)
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=Flat&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/HTML5-white?style=Flat&logo=HTML5&logoColor=orange&labelColor=white&color=orange)
-![Static Badge](https://img.shields.io/badge/CSS3-white?style=Flat&logo=CSS3&logoColor=blue&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/HTML5-white?logo=html5&logoColor=%23E34F26&labelColor=white&color=%23E34F26)
+![Static Badge](https://img.shields.io/badge/CSS3-white?logo=css3&logoColor=%231572B6&labelColor=white&color=%231572B6)
+![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?logo=sqlite&logoColor=%231572B6&labelColor=white&color=%231572B6)
+
 
 
 
