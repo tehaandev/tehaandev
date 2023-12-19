@@ -18,9 +18,9 @@
 
 ## Projects
 
-* Inventory management system 
-* Online ticketing system (Frontend)
-* Stock management app (1st year assignment)  
+* Inventory management system.
+* Online ticketing system (Frontend).
+* Stock management app (1st year assignment).  
 
 
 
