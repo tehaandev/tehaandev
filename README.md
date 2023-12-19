@@ -1,5 +1,5 @@
 # Hi there!👋 
-- I'm Tehaan from Sri Lanka. I'm currently a first-year undergraduate majoring in Computer Science who is also a Dev Intern at <a href="https://calcey.com/">Calcey.</a>.
+- I'm Tehaan from Sri Lanka. I'm currently an undergraduate majoring in Computer Science who is also a Dev Intern at <a href="https://calcey.com/">Calcey.</a>.
 
 ## Skills and Tools🧑‍💻
 
