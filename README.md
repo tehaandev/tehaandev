@@ -19,8 +19,11 @@
 ## Projects
 
 * Inventory management system.
-* Online ticketing system (Frontend).
-* Stock management app (1st year assignment).  
+  * Technologies used: Angular, Ionic, Node, ExpressJS, SQLite.
+* Online ticketing system (Front-end).
+  * Technologies used: AlpineJS, HTML5, CSS3, JavaScript, Tailwind CSS.
+* Stock management app (1st year assignment).
+  * Technologies used: C#, Windows Forms, MS Access, SQL.  
 
 
 
