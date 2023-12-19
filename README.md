@@ -1,7 +1,7 @@
 # Hi there!👋 
 - I'm Tehaan from Sri Lanka. I'm currently a first-year undergraduate majoring in Computer Science.
 
-## Technical Skills🧑‍💻
+## Skills and Tools🧑‍💻
 
 ![Static Badge](https://img.shields.io/badge/Node.js-green?style=Flat&logo=Node.js)
 ![Static Badge](https://img.shields.io/badge/Angular-red?style=Flat&logo=Angular)
@@ -14,6 +14,11 @@
 ![Static Badge](https://img.shields.io/badge/CSS3-white?logo=css3&logoColor=%231572B6&labelColor=white&color=%231572B6)
 ![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?logo=sqlite&logoColor=%231572B6&labelColor=white&color=%231572B6)
 
+## Projects
+
+* Inventory management system 
+* Online ticketing system (Frontend)
+* Stock management app (1st year assignment)  
 
 
 
