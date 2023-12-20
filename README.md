@@ -5,16 +5,16 @@
 
 ## Skills and Tools🧑‍💻
 
-![Static Badge](https://img.shields.io/badge/Node.js-green?style=Flat&logo=Node.js)
-![Static Badge](https://img.shields.io/badge/Angular-red?style=Flat&logo=Angular)
-![Static Badge](https://img.shields.io/badge/Ionic-white?style=Flat&logo=Ionic&labelColor=white&color=blue)
-![Static Badge](https://img.shields.io/badge/C%23-purple?style=Flat&logo=C%23)
-![Static Badge](https://img.shields.io/badge/Alpine.js-blue?style=Flat&logo=alpine.js)
-![Static Badge](https://img.shields.io/badge/PHP-white?style=Flat&logo=PHP)
-![Static Badge](https://img.shields.io/badge/Python-blue?style=Flat&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/HTML5-white?logo=html5&logoColor=%23E34F26&labelColor=white&color=%23E34F26)
-![Static Badge](https://img.shields.io/badge/CSS3-white?logo=css3&logoColor=%231572B6&labelColor=white&color=%231572B6)
-![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?logo=sqlite&logoColor=%231572B6&labelColor=white&color=%231572B6)
+![Static Badge](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Angular-%23C3002F?style=for-the-badge&logo=angular&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Ionic-%233880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=C%23&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Alpine.js-%238BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Projects
 
@@ -28,5 +28,5 @@
 
 
 ## Contact Me
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=Flat&logo=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftehaan-perera%2F)](https://www.linkedin.com/in/tehaan-perera/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftehaan-perera%2F)](https://www.linkedin.com/in/tehaan-perera/)
 
