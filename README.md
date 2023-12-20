@@ -3,7 +3,7 @@
 - I'm currently an undergraduate majoring in Computer Science.
 - Furthermore, I'm working as a Dev Intern at <a href="https://calcey.com/">Calcey.</a>
 
-## Skills and Tools🧑‍💻
+## Languages and Tools🧑‍💻
 
 ![Static Badge](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Angular-%23C3002F?style=for-the-badge&logo=angular&logoColor=white)
