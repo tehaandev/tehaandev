@@ -15,6 +15,7 @@
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tailwind-%23fff?style=for-the-badge&logo=tailwindcss&logoColor=%23fff&labelColor=%2306B6D4&color=%2306B6D4)
 
 ## Projects
 
