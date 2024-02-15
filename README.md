@@ -2,8 +2,6 @@
 - I'm Tehaan from Sri Lanka.
 - I'm currently a second-year undergraduate majoring in Computer Science.
 
-[![GitHub Streak](https://github-readme-streak-stats-iu201c0dj-tehaan-pereras-projects.vercel.app?user=tehaandev&theme=shadow-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ## Languages and Tools🧑‍💻
 
 ![Static Badge](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
