@@ -1,7 +1,6 @@
 # Hi there!👋 
 - I'm Tehaan from Sri Lanka.
-- I'm currently an undergraduate majoring in Computer Science.
-- Furthermore, I'm working as a Dev Intern at <a href="https://calcey.com/" target="_blank">Calcey.</a>
+- I'm currently a second-year undergraduate majoring in Computer Science.
 
 [![GitHub Streak](https://github-readme-streak-stats-iu201c0dj-tehaan-pereras-projects.vercel.app?user=tehaandev&theme=shadow-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
