@@ -29,7 +29,7 @@
   * Technologies used: React.js, Amazon SNS, Amazon Amplify.
 * Inventory management system.
   * Technologies used: Angular, Ionic, Node, ExpressJS, SQLite.
-* Online ticketing system (Front-end).
+* Online ticketing system - front-end (1st year assignment).
   * Technologies used: AlpineJS, HTML5, CSS3, JavaScript, Tailwind CSS.
 * Stock management app (1st year assignment).
   * Technologies used: C#, Windows Forms, MS Access, SQL.  
