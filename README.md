@@ -3,6 +3,8 @@
 - I'm currently an undergraduate majoring in Computer Science.
 - Furthermore, I'm working as a Dev Intern at <a href="https://calcey.com/" target="_blank">Calcey.</a>
 
+[![GitHub Streak](https://github-readme-streak-stats-iu201c0dj-tehaan-pereras-projects.vercel.app?user=tehaandev)](https://git.io/streak-stats)
+
 ## Languages and Tools🧑‍💻
 
 ![Static Badge](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
