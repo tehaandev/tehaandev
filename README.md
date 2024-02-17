@@ -24,7 +24,7 @@
 ## Projects
 
 * Portfolio website
-  * Technologies used (Frontend): Vite, React.js, Amazon SNS, Formik, Axios, NestJS.
+  * Technologies used: Vite, React.js, Amazon SNS, Axios, NestJS.
 * MAT International
   * Technologies used: React.js, Amazon SNS, Amazon Amplify.
 * Inventory management system.
