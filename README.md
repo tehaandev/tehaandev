@@ -24,9 +24,9 @@
 ## Projects
 
 * Portfolio website
-  * Technologies used: Vite, React.js, Amazon SNS, Axios, NestJS.
+  * Technologies used: Vite + React.js, Azure Static Web Apps, Amazon SNS, Axios, NestJS.
 * MAT International
-  * Technologies used: React.js, Amazon SNS, Amazon Amplify.
+  * Technologies used: React.js, Amazon SNS, Amazon Amplify, Axios, NestJS.
 * Inventory management system.
   * Technologies used: Angular, Ionic, Node, ExpressJS, SQLite.
 * Online ticketing system - front-end (1st year assignment).
