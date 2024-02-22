@@ -21,21 +21,6 @@
 ![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tailwind-%23fff?style=flat-square&logo=tailwindcss&logoColor=%23fff&labelColor=%2306B6D4&color=%2306B6D4)
 
-## Projects
-
-* Portfolio website
-  * Technologies used: React.js, Amazon SNS, Axios, NestJS.
-* MAT International
-  * Technologies used: React.js, Amazon SNS, Amazon Amplify, Axios, NestJS.
-* Inventory management system.
-  * Technologies used: Angular, Ionic, Node, ExpressJS, SQLite.
-* Online ticketing system - front-end (1st year assignment).
-  * Technologies used: AlpineJS, HTML5, CSS3, JavaScript, Tailwind CSS.
-* Stock management app (1st year assignment).
-  * Technologies used: C#, Windows Forms, MS Access, SQL.  
-
-
-
 ## Contact Me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftehaan-perera%2F)](https://www.linkedin.com/in/tehaan-perera/)
 
