@@ -7,7 +7,7 @@
 ## Languages and Tools🧑‍💻
 
 ![Static Badge](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Next.js-%23000000?logo=nextdotjs)
+![Static Badge](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=nextdotjs)
 ![Static Badge](https://img.shields.io/badge/React.js%20-%20%2361DAFB?style=flat-square&logo=react&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/Vite-%23646CFF?style=flat-square&logo=vite&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/Angular-%23C3002F?style=flat-square&logo=angular&logoColor=white)
