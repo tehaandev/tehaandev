@@ -3,8 +3,6 @@
 - 🖥️  See my portfolio at [tehaan.me](https://tehaan.me)
 - ✉️  You can contact me at [in/tehaan-perera](https://www.linkedin.com/in/tehaan-perera/)
 
-[![GitHub Streak](https://github-readme-streak-stats-pi-eight.vercel.app?user=tehaandev&theme=shadow-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
-
 ## Languages and Tools🧑‍💻
 
 ![Static Badge](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
