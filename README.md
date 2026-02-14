@@ -1,6 +1,6 @@
 # Hi there!👋 
 - 🌍  I'm based in Sri Lanka
-- 🖥️  See my portfolio at [tehaan.me](https://tehaan.me)
+- 🖥️  See my portfolio at [www.tehaan.me](https://www.tehaan.dev)
 - ✉️  You can contact me at [in/tehaan-perera](https://www.linkedin.com/in/tehaan-perera/)
 
 ## Languages and Tools🧑‍💻
